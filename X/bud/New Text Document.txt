@@ -1,0 +1,47 @@
+25-40
+
+HP 15t touch		(hp15tt)
+Dell Inspiron 15 5575		(di155575)
+HP Pavilion - 15-cd051nr		(hpp15cd051nr)
+Dell Inspiron 15 3567		(di153567)
+MIcrosoft Surface Go		(msg)
+
+40-50
+
+Dell Inspiron 15 3576		(di153576)
+HP ENVY x360 - 15t		(hpex36015t)
+HP 15t touch i7		(hp15tti7)
+HP Pavilion Gaming - 15t Quad w/ 2GB gfx		(hppg15t)
+HP Pavilion x360 - 14-cd0011nr		(hppx36014cd0011nr)
+
+50-60
+
+HP ProBook 440 G5 Notebook		(hpp440g5n)
+HP EliteBook 850 G3		(hpe850g3)
+HP Omen 17t		(hpo17t)
+HP ENVY x360 - 15-cn0013nr		(hpex36015cn0013nr)
+HP ENVY x360 - 15z Touch		(hpex36015zt)
+
+60-80
+
+Microsoft Surface Pro		(msp)
+Apple MacBook Air		(ama)
+System76 Galago Pro		(s76gp)
+System76 Gazelle		(s76g)
+HP ZBook 15v G5 Mobile Workstation		(hpzb15vg5mw)
+
+80-100
+
+System76 Kudu		(s76k)
+Apple Macbook		(am)
+HP ProBook 650 G4 Notebook	(hpp650g4n)
+Asus ROG GL552VW CN430T		(arggl552vwcn430t)
+Asus Zenbook Core i5		(azbci5)
+
+100-400
+
+lambda Tensorbook MAX		(ltbm)
+Asus ROG G501VW FI034T		(arg501vwfi034t)
+System76 Bonobo WS		(s76bws)
+Apple Macbook Pro		(amp)
+MIcrosoft Surface Book 2		(msb2)
