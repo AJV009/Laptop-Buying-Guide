@@ -5,4 +5,4 @@ A college activity!
 
 ## DONT BLAME ME FOR THE NUMBER OF SWITCH CASES
 :laughing: :laughing: :laughing:
-thas something I could do when starting out with code!
+thats something I could do when starting out with code!
