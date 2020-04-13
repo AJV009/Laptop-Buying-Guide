@@ -3,4 +3,6 @@ Laptop Buying Guide Programmed in CPP.
 AIM: to use OOPs concepts to build something for FUN!
 A college activity!
 
-## DONT BLAME FOR THE NUMBER OF SWITCH CASES :laughing:
+## DONT BLAME ME FOR THE NUMBER OF SWITCH CASES
+:laughing: :laughing: :laughing:
+thas something I could do when starting out with code!
